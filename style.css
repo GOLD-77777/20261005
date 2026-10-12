@@ -14,9 +14,15 @@ body {
   margin: 0 auto;
 }
 
-.page img {
+.row {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.row img {
   display: block;
-  width: 1080px;
+  width: 500px;
   height: auto;
 }
 
