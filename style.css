@@ -20,6 +20,21 @@ body {
   height: 120px;
 }
 
+.grid {
+  width: 1080px;
+  border-collapse: collapse;
+  border-spacing: 0;
+  table-layout: fixed;
+}
+
+.grid td {
+  width: 270px;
+  padding: 24px 0;
+  border: none;
+  font-size: 32px;
+  text-align: center;
+}
+
 .row {
   display: flex;
   justify-content: center;
