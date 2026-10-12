@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #fff;
+  font-family: sans-serif;
+}
+
+.page {
+  width: 1080px;
+  margin: 0 auto;
+}
+
+.page img {
+  display: block;
+  width: 1080px;
+  height: auto;
+}
+
+.page p {
+  font-size: 48px;
+  text-align: center;
+  padding: 24px 0;
+}
