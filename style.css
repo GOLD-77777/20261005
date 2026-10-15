@@ -36,7 +36,6 @@ body {
 }
 
 .row {
-  position: relative;
   display: flex;
   justify-content: center;
   gap: 40px;
@@ -49,12 +48,10 @@ body {
 }
 
 .label {
-  position: absolute;
-  top: 0;
-  left: 0;
+  width: fit-content;
   padding: 6px 20px;
-  background: #50c878;
-  color: #053b22;
+  background: #c9f0d4;
+  color: #000;
   font-size: 28px;
   font-weight: bold;
   line-height: 1.2;
