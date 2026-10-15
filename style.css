@@ -35,6 +35,16 @@ body {
   text-align: center;
 }
 
+.heading {
+  width: fit-content;
+  padding: 6px 20px;
+  background: #ffe5c2;
+  color: #000;
+  font-size: 32px;
+  font-weight: normal;
+  line-height: 1.2;
+}
+
 .row {
   display: flex;
   justify-content: center;
